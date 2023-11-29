@@ -37,6 +37,7 @@ ul{
 }
 li{
   margin-left: 50px;
+  border-bottom: 5px solid;
 }
 nav a {
   text-decoration: none;
