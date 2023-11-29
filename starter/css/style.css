@@ -185,6 +185,13 @@ p {
   grid-area: c5;
   background-image: url('../images/02-run-buddy.jpg');
 }
+.h1-like{
+  display: flex;
+  font-size: 20px;
+    font-weight: 800;
+    text-wrap: wrap;
+    width: 200px;
+}
 #options{
   
   background-color: rgb(101, 181, 181);
