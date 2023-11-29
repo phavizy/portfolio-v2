@@ -18,6 +18,7 @@ top: 0;
 background-image: url('../images/02-hero-bg.jpg');
 position: relative;
 background-size: cover;
+color: white;
 height: 15%;
 overflow: hidden;
 }
@@ -29,6 +30,9 @@ header{
   background-color: rgb(47, 47, 103);
   
   
+}
+img{
+  height: 200px;
 }
 ul{
   list-style: none;
@@ -71,7 +75,7 @@ header ul li{
   top: 0;
   left:0;
   position:absolute;
-  background: rgb(26, 41, 41);
+  background: rgb(14, 30, 53);
   opacity: 50%;
   height: 100%;
   width: 100%;
@@ -94,7 +98,9 @@ h2{
   background-color: rgb(101, 181, 181);
     color: rgb(47, 47, 103);
     padding-left: 50px;
-    width: 13%;position: relative;
+    width: 22%;position: relative;
+    float: right;
+    margin-right: 20px;
 }
 
 h3{
