@@ -75,6 +75,15 @@ header ul li{
   height: 100%;
   width: 100%;
 }
+.overlay-child {
+  top: 0;
+  left: 0;
+  position: relative;
+  background: rgb(26, 41, 41);
+  opacity: 50%;
+  height: 300px;
+  width: 100%;
+}
 .roundabout{
  
   
@@ -174,4 +183,15 @@ p {
 #c5 {
   grid-area: c5;
   background-image: url('../images/02-run-buddy.jpg');
+}
+#options{
+  
+  background-color: rgb(101, 181, 181);
+    color: rgb(47, 47, 103);
+    padding-left: 50px;
+    width: 200px;
+    height: 60px;
+    position: relative;
+    margin-top: 5%;
+
 }
