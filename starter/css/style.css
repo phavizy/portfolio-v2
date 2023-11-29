@@ -197,9 +197,12 @@ p {
   background-color: rgb(101, 181, 181);
     color: rgb(47, 47, 103);
     padding-left: 50px;
-    width: 200px;
+    width: 250px;
     height: 60px;
     position: relative;
     margin-top: 5%;
 
+}
+#options p{
+  width: 200px;
 }
